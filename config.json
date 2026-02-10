@@ -1,0 +1,10 @@
+{
+  "num_nodes": 5,
+  "num_permutations": 3,
+  "base_port": 5000,
+  "max_transactions_per_block": 10,
+  "transaction_pool_size": 100,
+  "difficulty": 5,
+  "sync_frequency_seconds": 5,
+  "initial_balance": 1000
+}
